@@ -11,7 +11,7 @@ const BlogCards = ({ data }) => {
             <div className="blog-card">
               <Img className="blog-thumbnail" sizes={node.frontmatter.image.childImageSharp.sizes} />
               <div className="blog-description">
-                <p className="blog-date-topic">{node.frontmatter.date} &nbsp;&nbsp; ———— &nbsp;&nbsp;{node.frontmatter.topic}</p>
+                <p className="blog-date-topic">{node.frontmatter.date} &nbsp;&nbsp;         &nbsp;&nbsp;{node.frontmatter.rating}</p>
                 <h3 className="blog-title">{node.frontmatter.title}</h3>
                 <p className="blog-excerpt">{node.excerpt}</p> 
                 <p className="read-more"> ——— Read More</p>
