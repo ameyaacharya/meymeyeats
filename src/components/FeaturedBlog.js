@@ -13,7 +13,7 @@ const FeaturedBlog = ({ data }) => {
               <div className="featured-blog-description">
                 <h3 className="featured-blog-title">{node.frontmatter.title}</h3>
                 <p className="featured-blog-excerpt">{node.excerpt}</p> 
-                <p className="featured-read-more">Read More - {node.frontmatter.read}</p>
+                <p className="featured-read-more"></p>
               </div>
             </div>
           </Link>

@@ -8,7 +8,7 @@ import FeaturedBlog from "../components/FeaturedBlog"
 const IndexPage = ({ data }) => {
   return(
     <Layout>
-      <SEO title="Amelie" />
+      <SEO title="meymeyeats" />
       <FeaturedBlog data={data.blog}/>
       <BlogCards data={data.blog}/>
     </Layout>
@@ -35,6 +35,7 @@ export const query = graphql`
           date
           read
           topic
+          rating
           image {
             childImageSharp{
                 sizes(maxWidth: 630) {
