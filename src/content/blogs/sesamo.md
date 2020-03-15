@@ -1,8 +1,7 @@
 ---
-title: "Sesamo"
+title: "Sesamo - 6.5"
 date: "November 16, 2019"
 read: "1 min read" 
-rating: 3
 image: "../../images/sesamo_1.jpg"
 
 ---

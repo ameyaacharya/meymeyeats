@@ -1,8 +1,7 @@
 ---
-title: "Pepa Pla"
+title: "Pepa Pla - 8.5"
 date: "May 1, 2019"
 read: "1 min read" 
-rating: 5
 image: "../../images/Pepa_pla1.jpg"
 
 ---

@@ -35,7 +35,6 @@ export const query = graphql`
           date
           read
           topic
-          rating
           image {
             childImageSharp{
                 sizes(maxWidth: 630) {

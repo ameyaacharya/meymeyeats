@@ -1,8 +1,7 @@
 ---
-title: "Kibuka"
+title: "Kibuka - 8.2"
 date: "May 1st, 2019"
 read: "1 min read" 
-rating: 5
 image: "../../images/Kibuka_1.JPG"
 
 ---

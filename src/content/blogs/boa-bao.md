@@ -1,8 +1,7 @@
 ---
-title: "Boa Bao"
+title: "Boa Bao - 5.3"
 date: "May 1, 2019"
 read: "1 min read" 
-rating: 3
 image: "../../images/Boa_Bao1.jpg"
 
 ---

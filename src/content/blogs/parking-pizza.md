@@ -1,8 +1,7 @@
 ---
-title: "Parking Pizza"
+title: "Parking Pizza - 8.0"
 date: "May 1, 2019"
 read: "1 min read" 
-rating: 5
 image: "../../images/Parking_pizza1.JPG"
 
 ---

@@ -1,8 +1,7 @@
 ---
-title: "La Catalista"
+title: "La Catalista - 7.8"
 date: "May 1, 2019"
 read: "1 min read" 
-rating: 4
 image: "../../images/La_Catalista1.JPG"
 
 ---

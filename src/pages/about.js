@@ -1,7 +1,7 @@
 import React from "react"
 import SEO from "../components/Seo"
 import Nav from "../components/Nav"
-import ppl from "../images/Ameya_orange.jpg"
+import ppl from "../images/calcots.jpg"
 
 const AboutPage = () => (
   <div>
